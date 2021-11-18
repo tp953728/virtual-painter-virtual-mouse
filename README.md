@@ -2,6 +2,12 @@
 
 a virtual painter & a virtual mouse function implemented using mediapipe hand landmark detection
 
+virtual painter demo:
+
+
+https://user-images.githubusercontent.com/49955403/142424809-a3981eaa-1ed9-40da-ac6b-c2a087729628.mp4
+
+
 ---
 
 run ```python main.py draw``` for virtual painter
